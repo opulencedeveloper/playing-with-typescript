@@ -8,6 +8,7 @@ const textResults: string[] = [];
 type NumOrString = number | string;
 //type Result = { val: number; timestamp: Date };
 
+
 interface ResultObj {
   val: number;
   timestamp: Date;
